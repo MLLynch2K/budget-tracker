@@ -13,11 +13,11 @@ This application allows you to track personal transactions and help you to plan 
 
 ***   
 ### Screenshot   
-![""](images/budget tracker screenshot.png)    
+![](images/budget-tracker-screenshot.png)    
 
 ***
 ### Deployed Link     
-![Budget Tracker Link](budget-tracker2k.herokuapp.com)  
+![Budget Tracker Link](https://budget-tracker2k.herokuapp.com/)  
 
 ***
 ### Features  
@@ -26,11 +26,11 @@ CSS
 Bootstrap   
 JavaScript  
 Node.js   
-Express.js   
-Mongoose
-Compression
-Lite-Server
-Morgan
+Express.js     
+Mongoose   
+Compression   
+Lite-Server   
+Morgan   
 
 ***
 ### Contributors  
