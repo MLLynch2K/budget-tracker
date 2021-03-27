@@ -17,7 +17,7 @@ This application allows you to track personal transactions and help you to plan 
 
 ***
 ### Deployed Link     
-![Budget Tracker Link](https://budget-tracker2k.herokuapp.com/)  
+![Budget Tracker Link](https://budget-tracker2k.herokuapp.com)  
 
 ***
 ### Features  
