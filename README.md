@@ -5,11 +5,11 @@ This application allows you to track personal transactions and help you to plan 
 
 ***
 ### Table of Contents  
-1. [Screenshot]()
-2. [Deployed Link]()
-3. [Features]()
-4. [Contributors]()
-5. [Questions]()   
+1. [Screenshot](https://github.com/MLLynch2K/budget-tracker#screenshot)
+2. [Deployed Link](https://github.com/MLLynch2K/budget-tracker#deployed-link)
+3. [Features](https://github.com/MLLynch2K/budget-tracker#features)
+4. [Contributors](https://github.com/MLLynch2K/budget-tracker#contributors)
+5. [Questions](https://github.com/MLLynch2K/budget-tracker#questions)   
 
 ***   
 ### Screenshot   
@@ -17,7 +17,7 @@ This application allows you to track personal transactions and help you to plan 
 
 ***
 ### Deployed Link     
-![Budget Tracker](https://budget-tracker2k.herokuapp.com/)  
+![Budget Tracker Link](budget-tracker2k.herokuapp.com/)  
 
 ***
 ### Features  
