@@ -13,11 +13,11 @@ This application allows you to track personal transactions and help you to plan 
 
 ***   
 ### Screenshot   
-![](images/budget tracker screenshot.png)    
+![""](images/budget tracker screenshot.png)    
 
 ***
 ### Deployed Link     
-![Budget Tracker Link](budget-tracker2k.herokuapp.com/)  
+![Budget Tracker Link](budget-tracker2k.herokuapp.com)  
 
 ***
 ### Features  
